@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Test Git 1625579451961" max_length="40" name="x_snc_test_git_1625579451961" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Customer" label="Customer" max_length="40" name="u_customer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email" label="Email" max_length="46" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+    </element>
+</database>
